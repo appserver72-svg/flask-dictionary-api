@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 flask
 flask-cors
+=======
+flask\nflask-cors
+>>>>>>> d48e4ad (add requirements)
