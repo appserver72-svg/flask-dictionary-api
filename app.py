@@ -29,7 +29,7 @@ my_dictionary = {
         "definition": "It is a fruit",
         "phonetic": "ap",
         "partOfSpeech": "haha"
-}
+    }
 
 @app.route('/word/<w>')
 def get_word(w):
