@@ -30,6 +30,7 @@ my_dictionary = {
         "phonetic": "ap",
         "partOfSpeech": "haha"
     }
+}
 
 @app.route('/word/<w>')
 def get_word(w):
