@@ -24,7 +24,11 @@ my_dictionary = {
         "definition":"an electronic device that accepts data, processes it, and produces information.",
         "phonetic": "kum-pyu-ter",
         "partOfSpeech": "noun"
-    }
+    },
+    "apple": {
+        "definition": "It is a fruit",
+        "phonetic": "ap",
+        "partOfSpeech": "haha"
 }
 
 @app.route('/word/<w>')
