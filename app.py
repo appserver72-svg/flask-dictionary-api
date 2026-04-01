@@ -19,6 +19,11 @@ my_dictionary = {
         "definition": "မင်္ဂလာပါ",
         "phonetic": "ming-ga-la",
         "partOfSpeech": "greeting"
+    },
+    "computer": {
+        "definition":"an electronic device that accepts data, processes it, and produces information.",
+        "phonetic": "kum-pyu-ter",
+        "partOfSpeech": "noun"
     }
 }
 
