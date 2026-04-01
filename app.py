@@ -5,11 +5,6 @@ app = Flask(__name__)
 CORS(app)  # 👈 ENABLE
 
 my_dictionary = {
-    "mon": {
-        "definition": "Mon language example",
-        "phonetic": "mon",
-        "partOfSpeech": "noun"
-    },
     "hello": {
         "definition": "Grating",
         "phonetic": "Halo",
